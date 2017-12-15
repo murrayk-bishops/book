@@ -1,4 +1,4 @@
-#Kai
+#Kai Murray 2019
 import requests;
 import html2text;
 def getEbookContent(filename):
